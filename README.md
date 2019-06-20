@@ -1,0 +1,2 @@
+# MultiLayerPerceptron
+This is a repository for Multi-Layer Perceptron and Logistic Regression. There is a code (function) for Logistic Regression. SOme analysis is performed on the function. This is compared with the sklearn Logistic Regression function. Then, the decision boundary has also been plotted for the classification. The next part is the basic neural network. A class and a function has been created for this and it has been used for digit classification (mnist dataset).
